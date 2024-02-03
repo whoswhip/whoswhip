@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+I am new to coding and code in C# and Javascript, I will post some of the side projects I make as I learn how to code in C# :)
 
 <!--
 **whoswhip/whoswhip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
