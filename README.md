@@ -1,7 +1,7 @@
 <h1> Hi there</h1> 
 Im whoswhip, heres everything I do on github and also what I do in my own free time
 <h4>Websites</h3>
-I own a few websites, one of them being a [file hoster](https://femboi.pics), it is still a work in progress, my other website is my [personal one](https://whoswhip.top)
+I own a few websites, one of them being a <a href="https://femboi.pics">file hoster</a>, it is still a work in progress, my other website is my <a href="https://whoswhip.top">personal one</a>
 <h2>Stats</h1>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=whoswhip&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My stats!" />
 <h2>Programming Languages</h2>
