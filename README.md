@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! 👋</h1> 
 <div align="center">
-Im whoswhip, a 13 year old developer, and heres everything I do on github and also what I do in my own free time
+Im whoswhip, and heres everything I do on github and also what I do in my own free time
 <h4 align="center">Projects</h3>
 I own a few websites, one of them being a <a href="https://femboi.pics">file hoster</a>, it is still a work in progress, and my other website is my <a href="https://whoswhip.top">personal one</a>
 As of now the current projects I'm working on right now are my 2 websites and my <a href="https://github.com/whoswhip/File-Manager">file managing program</a>
