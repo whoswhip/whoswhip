@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! 👋</h1> 
 <div align="center">
-Im whoswhip, and heres everything I do on github and also what I do in my own free time
+My name is Robert, and here's some information about me!
 <h4 align="center">Projects</h3>
 I own a few websites, one of them being a <a href="https://femboi.pics">file hoster</a>, it is still a work in progress, and my other website is my <a href="https://whoswhip.top">personal one</a>
 As of now the current projects I'm working on right now are my 2 websites and my <a href="https://github.com/whoswhip/File-Manager">file managing program</a>
