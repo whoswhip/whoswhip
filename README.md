@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! 👋</h1> 
 <div align="center">
-My name is Robert, and here's some information about me!
+My name is whoswhip, and here's some information about me!
 <!-- <h4 align="center">Projects</h3> --!>
 
 </div>
