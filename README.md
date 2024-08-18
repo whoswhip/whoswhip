@@ -23,9 +23,9 @@ My name is whoswhip, and I like to code asp.net based websites, here's a bit mor
 <h2 align="center">Tools I use often</h2>
 <div align="center">
   
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">  
+<!--<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">-->
+<img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img alt="Firefox" src="https://img.shields.io/badge/Firefox-4285F4?style=for-the-badge&logo=Firefox&logoColor=white">  
 </div>
 <!-- Thanks you for Babyhamsta and Taylor for the stats and icons from their readme's -->
