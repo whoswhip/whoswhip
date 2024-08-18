@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! 👋</h1> 
 <div align="center">
-My name is whoswhip, and here's some information about me!
+My name is whoswhip, and I like to code asp.net based websites, here's a bit more information about me!
 <!-- <h4 align="center">Projects</h3> --!>
 
 </div>
@@ -28,4 +28,4 @@ My name is whoswhip, and here's some information about me!
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">  
 </div>
-<!-- Thanks Babyhamsta and Taylor for the stats and icons -->
+<!-- Thanks you for Babyhamsta and Taylor for the stats and icons from their readme's -->
