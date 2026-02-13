@@ -18,9 +18,19 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+      - name: Wakatime embed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
