@@ -1,1 +1,1 @@
-![Github Metrics](https://raw.githubusercontent.com/whoswhip/whoswhip/refs/heads/main/github-metrics.svg)
+[<img align="left" alt="metrics" src="https://raw.githubusercontent.com/whoswhip/whoswhip/refs/heads/main/metrics.svg">](#)
