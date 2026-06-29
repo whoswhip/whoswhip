@@ -4,4 +4,4 @@ the project i've currently worked the most on is [Sharpbin](https://github.com/w
 
 ---
 
-[website](https://whoswhip.dev) / [email](mailto:contact@whoswhip.dev) / [twitter (x)](https://x.com/whereswhip)
+[website](https://whoswhip.dev) / [email](mailto:contact@whoswhip.dev)
